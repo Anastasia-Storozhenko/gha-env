@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env: 
-      MONGODB_CLUSTER_ADDRESS: atlas-sql-6756237aa749ac262aa95708-hddns.a.query.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.hddns.mongodb.net
       MONGODB_USERNAME: nsgen06
       MONGODB_PASSWORD: D86YTHJVha.ktd4
       PORT: 8080
